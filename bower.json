@@ -1,0 +1,29 @@
+{
+  "name": "contatooh",
+  "description": "blah",
+  "main": "server.js",
+  "authors": [
+    "alan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.2",
+    "angular-route": "1.3",
+    "bootstrap": "3.3"
+  },
+  "resolutions": {
+    "angular": "1.3.2"
+  }
+}
